@@ -1,17 +1,4 @@
-{
-    "mac": {
-        "macbookpro": [],
-        "macbookair": []
-    },
-    "iphone": {
-        "iphone": [],
-        "iphonese": [],
-        "iphonepro": []
-    },
-    "ipad": {
-        "ipad": [],
-        "ipadmini": [],
-        "ipadair": [
+[
             {
                 "id": "A001",
                 "color": "太空灰色",
@@ -172,9 +159,4 @@
                 "network": "Cellular",
                 "picture": "blue.png"
             }
-        ],
-        "ipadpro": []
-    },
-    "watch": {},
-    "airpods": {}
-}
+        ]
